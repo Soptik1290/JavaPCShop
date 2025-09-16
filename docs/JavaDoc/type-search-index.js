@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"SemestralniPrace","l":"Desktop"},{"p":"SemestralniPrace","l":"Laptop"},{"p":"SemestralniPrace","l":"MojeOteviraciDoba"},{"p":"SemestralniPrace","l":"OteviraciDoba"},{"p":"SemestralniPrace","l":"Pocitac"},{"p":"SemestralniPrace","l":"PocitacovyObchod"}];updateSearchResults();
